@@ -1,0 +1,172 @@
+Individual ID,Individual Sex,Age min,Age max,Born at Teo,Teeth O Value,Local before death,Bone O Value,Died min,Died max,Context,Location,Sacrificed
+1,M,20.00,24.00,,NA,1.00,15.80,,,not soldier,Temple of Feathered Serpent,1
+l90A ,M,21.00,35.00,,NA,1.00,16.10,200,250,soldier,Temple of Feathered Serpent,1
+l90B ,M,21.00,35.00,,NA,1.00,14.00,200,250,soldier,Temple of Feathered Serpent,1
+l90F ,M,17.00,19.00,1.00,15.50,1.00,15.30,200,250,soldier,Temple of Feathered Serpent,1
+l90M ,M,25.00,29.00,,NA,1.00,14.20,200,250,soldier,Temple of Feathered Serpent,1
+l90P ,M,21.00,26.00,,NA,1.00,14.60,200,250,soldier,Temple of Feathered Serpent,1
+4A ,M,35.00,39.00,1.00,14.40,1.00,15.60,150,200,soldier,Temple of Feathered Serpent,1
+4C ,M,40.00,44.00,0.00,16.80,1.00,15.70,150,200,soldier,Temple of Feathered Serpent,1
+4E,M,35.00,39.00,0.00,11.70,1.00,15.90,150,200,soldier,Temple of Feathered Serpent,1
+4L ,M,18.00,20.00,0.00,11.40,1.00,16.00,150,200,soldier,Temple of Feathered Serpent,1
+4N ,M,25.00,29.00,,NA,1.00,16.20,150,200,soldier,Temple of Feathered Serpent,1
+4N~ ,M,20.00,22.00,0.00,17.80,,NA,150,200,soldier,Temple of Feathered Serpent,1
+4O,M,25.00,29.00,0.00,17.20,,NA,150,200,soldier,Temple of Feathered Serpent,1
+2A ,F,25.00,30.00,1.00,14.40,1.00,14.70,150,200,not soldier,Temple of Feathered Serpent,1
+2C ,F,14.00,16.00,1.00,13.00,0.00,19.70,150,200,not soldier,Temple of Feathered Serpent,1
+2G ,F,17.00,19.00,1.00,15.20,1.00,16.30,150,200,not soldier,Temple of Feathered Serpent,1
+2H ,F,22.00,28.00,0.00,17.80,0.00,17.00,150,200,not soldier,Temple of Feathered Serpent,1
+5C ,M,19.00,21.00,0.00,18.20,1.00,14.40,200,250,soldier,Temple of Feathered Serpent,1
+5D ,M,40.00,44.00,0.00,17.20,1.00,14.40,200,250,soldier,Temple of Feathered Serpent,1
+5E ,M,25.00,29.00,1.00,16.30,0.00,19.20,200,250,soldier,Temple of Feathered Serpent,1
+5F ,M,35.00,39.00,0.00,17.50,1.00,15.40,200,250,soldier,Temple of Feathered Serpent,1
+5G,M,18.00,20.00,0.00,17.40,1.00,14.50,200,250,soldier,Temple of Feathered Serpent,1
+5H ,M,18.00,20.00,1.00,14.90,1.00,14.20,200,250,soldier,Temple of Feathered Serpent,1
+5I ,M,,,,,1.00,14.50,200,250,buried in temple,Temple of Feathered Serpent,1
+6A ,M,,,,,1.00,13.60,200,250,buried in temple,Temple of Feathered Serpent,1
+6B ,M,20.00,24.00,1.00,15.60,1.00,13.60,200,250,soldier,Temple of Feathered Serpent,1
+6C ,M,20.00,24.00,1.00,16.40,1.00,13.90,200,250,soldier,Temple of Feathered Serpent,1
+6D,M,18.00,20.00,0.00,16.90,1.00,13.00,200,250,soldier,Temple of Feathered Serpent,1
+6I ,M,40.00,44.00,1.00,15.00,1.00,13.40,200,250,soldier,Temple of Feathered Serpent,1
+10A ,F,25.00,29.00,1.00,15.80,1.00,13.60,200,250,not soldier,Temple of Feathered Serpent,1
+10C ,F,,,,,1.00,13.60,200,250,buried in temple,Temple of Feathered Serpent,1
+10D ,F,17.00,19.00,,NA,1.00,14.60,200,250,not soldier,Temple of Feathered Serpent,1
+11A,F,,,,,0.00,8.80,200,250,buried in temple,Temple of Feathered Serpent,1
+11B ,F,20.00,24.00,,NA,1.00,13.20,200,250,not soldier,Temple of Feathered Serpent,1
+11C ,F,30.00,34.00,,NA,1.00,13.20,200,250,not soldier,Temple of Feathered Serpent,1
+12,M,25.00,35.00,,NA,1.00,15.40,150,200,buried in temple,Temple of Feathered Serpent,1
+13E ,M,35.00,39.00,1.00,16.50,1.00,16.40,150,200,high status ,Temple of Feathered Serpent,1
+14A ,M,19.00,22.00,1.00,14.90,0.00,19.30,150,200,high status ,Temple of Feathered Serpent,1
+14C ,M,35.00,39.00,0.00,16.60,0.00,17.70,150,200,high status ,Temple of Feathered Serpent,1
+14F ,M,22.00,24.00,0.00,10.10,0.00,16.60,150,200,high status ,Temple of Feathered Serpent,1
+14I ,M,35.00,39.00,0.00,17.00,0.00,17.10,150,200,high status ,Temple of Feathered Serpent,1
+14K ,M,22.00,24.00,1.00,16.50,0.00,19.10,150,200,high status ,Temple of Feathered Serpent,1
+14R ,M,35.00,39.00,1.00,15.40,1.00,16.50,150,200,high status ,Temple of Feathered Serpent,1
+14S,M ,30.00,40.00,1.00,16.10,0.00,16.70,150,200,high status ,Temple of Feathered Serpent,1
+15,M,25.00,29.00,,NA,1.00,16.30,100,150,Predates TOFS,Temple of Feathered Serpent,1
+3 max 4N~,,,,0.00,17.40,,,150,200,maxilla necklace for soldier,Temple of Feathered Serpent,1
+5 max 4N~,,,,1.00,15.90,,,150,200,maxilla necklace for soldier,Temple of Feathered Serpent,1
+6 max 4N~,,,,0.00,17.40,,,150,200,maxilla necklace for soldier,Temple of Feathered Serpent,1
+6 max 4N~,,,,1.00,15.60,,,150,200,maxilla necklace for soldier,Temple of Feathered Serpent,1
+7 max 4N~,,,,0.00,16.90,,,150,200,maxilla necklace for soldier,Temple of Feathered Serpent,1
+7 max 4N~,,,,1.00,15.70,,,150,200,maxilla necklace for soldier,Temple of Feathered Serpent,1
+10 max 4N~,,,,0.00,17.50,,,150,200,maxilla necklace for soldier,Temple of Feathered Serpent,1
+O-1 max 4N~,,,,1.00,15.80,,,150,200,maxilla necklace for soldier,Temple of Feathered Serpent,1
+2 max 5H,,,,1.00,16.30,,,200,250,maxilla necklace for soldier,Temple of Feathered Serpent,1
+4 max 5H,,,,1.00,15.10,,,200,250,maxilla necklace for soldier,Temple of Feathered Serpent,1
+6 max 5H,,,,1.00,15.40,,,200,250,maxilla necklace for soldier,Temple of Feathered Serpent,1
+8 max 5H,,,,1.00,16.30,,,200,250,maxilla necklace for soldier,Temple of Feathered Serpent,1
+1 max 190F,,,,1.00,14.90,,,200,250,maxilla necklace for soldier,Temple of Feathered Serpent,1
+5 max 190F,,,,1.00,14.80,,,200,250,maxilla necklace for soldier,Temple of Feathered Serpent,1
+10 max 190F,,,,1.00,14.90,,,200,250,maxilla necklace for soldier,Temple of Feathered Serpent,1
+Fibula,,,,0.00,16.60,1.00,15.70,200,250,possibly elite,Temple of Moon,1
+Exostosis,,,,0.00,17.10,1.00,15.80,200,250,possibly elite,Temple of Moon,1
+Parietal,,,,,,1.00,16.00,200,250,possibly elite,Temple of Moon,1
+3A,,,,1.00,16.10,0.00,16.60,300,300,possibly elite,Temple of Moon,1
+3B,,,,0.00,16.80,1.00,15.10,300,300,possibly elite,Temple of Moon,1
+3C,,,,1.00,16.20,1.00,15.10,300,300,possibly elite,Temple of Moon,1
+3D,,,,1.00,15.70,1.00,15.50,300,300,possibly elite,Temple of Moon,1
+4A,,,,0.00,17.60,0.00,17.30,350,400,"decapitated, no offerings",Temple of Moon,1
+4B,,,,1.00,14.90,0.00,17.10,350,400,"decapitated, no offerings",Temple of Moon,1
+4C,,,,1.00,16.30,0.00,17.90,350,400,"decapitated, no offerings",Temple of Moon,1
+4D,,,,0.00,16.80,0.00,18.00,350,400,"decapitated, no offerings",Temple of Moon,1
+4E,,,,0.00,17.60,0.00,18.50,350,400,"decapitated, no offerings",Temple of Moon,1
+4F,,,,0.00,17.40,0.00,18.40,350,400,"decapitated, no offerings",Temple of Moon,1
+4G,,,,0.00,18.30,0.00,19.00,350,400,"decapitated, no offerings",Temple of Moon,1
+4H,,,,1.00,16.10,1.00,16.40,350,400,"decapitated, no offerings",Temple of Moon,1
+4I,,,,1.00,16.10,0.00,17.40,350,400,"decapitated, no offerings",Temple of Moon,1
+4J,,,,0.00,21.00,0.00,18.90,350,400,"decapitated, no offerings",Temple of Moon,1
+4K,,,,0.00,21.50,0.00,19.90,350,400,"decapitated, no offerings",Temple of Moon,1
+4L,,,,1.00,15.60,0.00,16.90,350,400,"decapitated, no offerings",Temple of Moon,1
+4M,,,,1.00,15.70,0.00,17.00,350,400,"decapitated, no offerings",Temple of Moon,1
+4N,,,,0.00,20.50,0.00,18.20,350,400,"decapitated, no offerings",Temple of Moon,1
+4O,,,,0.00,17.50,0.00,17.90,350,400,"decapitated, no offerings",Temple of Moon,1
+4P,,,,0.00,20.10,0.00,19.00,350,400,"decapitated, no offerings",Temple of Moon,1
+4Q,,,,0.00,19.70,0.00,18.80,350,400,"decapitated, no offerings",Temple of Moon,1
+4(v),,,,,,1.00,15.70,350,400,"decapitated, no offerings",Temple of Moon,1
+5A,,,,0.00,16.70,1.00,15.30,350,400,possibly elite,Temple of Moon,
+5B,,,,0.00,16.70,1.00,16.40,350,400,possibly elite,Temple of Moon,
+5C,,,,0.00,18.50,1.00,16.50,350,400,possibly elite,Temple of Moon,
+155,,,,,,1.00,15.70,200,400,Found in fill (cranial bones),Temple of Moon,1
+F573,,,,,,1.00,14.80,200,400,Found in fill (cranial bones),Temple of Moon,1
+F590,,,,,,1.00,13.80,200,400,Found in fill (cranial bones),Temple of Moon,1
+G175,,,,,,0.00,17.20,200,400,Found in fill (cranial bones),Temple of Moon,1
+408-INF,,0.08,1.00,,,1.00,15.20,200,200,public burial,Tlailotlacan,
+408/1,,3.20,4.80,1.00,16.10,,,200,200,public burial - flexed/seated burial,Tlailotlacan,
+408/2,,3.00,3.00,1.00,16.10,,,200,200,public burial,Tlailotlacan,
+409,,3.80,4.80,1.00,15.80,1.00,15.00,200,200,public burial - flexed/seated burial,Tlailotlacan,
+284A,F,41.00,60.00,1.00,15.20,1.00,15.30,200,250,domestic space - extended burial,Tlailotlacan,
+284B,M,41.00,60.00,,,1.00,15.40,200,250,domestic space,Tlailotlacan,
+261,F,41.00,60.00,1.00,15.90,,,200,250,domestic space - extended burial,Tlailotlacan,
+322,F,25.00,41.00,0.00,16.70,1.00,15.10,200,250,public burial - flexed/seated burial,Tlailotlacan,
+345S,,2.00,3.00,1.00,16.00,1.00,15.60,200,250,public burial,Tlailotlacan,
+223,,4.50,5.00,1.00,15.20,1.00,15.50,250,350,domestic space - flexed/seated burial,Tlailotlacan,
+345N,,3.50,5.00,1.00,15.50,1.00,16.40,250,350,public burial,Tlailotlacan,
+#841,,25.00,40.00,,,1.00,13.40,250,350,resident,Tlailotlacan,
+130,,3.00,3.50,1.00,16.30,1.00,15.30,250,450,public burial - flexed/seated burial,Tlailotlacan,
+381,F,41.00,60.00,1.00,15.30,1.00,15.60,250,450,public burial - flexed/seated burial,Tlailotlacan,
+#520,,25.00,40.00,,,1.00,15.10,250,450,resident,Tlailotlacan,
+#51954,M,25.00,40.00,1.00,16.20,,,250,450,resident,Tlailotlacan,
+#5140,,25.00,40.00,1.00,15.80,,,250,450,resident,Tlailotlacan,
+133,,3.00,3.50,1.00,15.80,1.00,16.50,350,450,public burial,Tlailotlacan,
+113,F,25.00,40.00,0.00,17.00,1.00,14.10,350,450,public burial - extended burial,Tlailotlacan,
+81,,0.00,0.08,,,,,350,550,public burial  - extended burial,Tlailotlacan,
+Pasillo,M,41.00,60.00,1.00,14.90,1.00,15.20,350,550,resident,Tlailotlacan,
+#5774a,,25.00,40.00,1.00,15.50,,,350,550,resident,Tlailotlacan,
+372,M,25.00,41.00,0.00,18.90,1.00,14.20,350,650,domestic space - extended burial,Tlailotlacan,
+#551-68,,25.00,40.00,,,1.00,15.60,550,650,resident,Tlailotlacan,
+#551-8,,25.00,40.00,1.00,15.40,,,550,650,resident,Tlailotlacan,
+#551-31,M,25.00,40.00,1.00,15.30,,,550,650,resident,Tlailotlacan,
+#551-33,M,25.00,40.00,0.00,16.60,,,550,650,resident,Tlailotlacan,
+8,,,,,,1.00,14.50,200,650,resident,La Ventilla,
+45,,,,,,1.00,14.60,200,650,resident,La Ventilla,
+54A ,M,,,,,1.00,13.50,200,650,resident,La Ventilla,
+68,F,,,,,1.00,16.00,200,650,resident,La Ventilla,
+166,,,,,,1.00,13.90,200,650,resident,La Ventilla,
+180,,,,,,1.00,14.50,200,650,resident,La Ventilla,
+224A ,F,,,,,1.00,12.00,200,650,resident,La Ventilla,
+227,F,,,,,1.00,12.20,200,650,resident,La Ventilla,
+231,F,,,,,1.00,13.00,200,650,resident,La Ventilla,
+236,,,,,,1.00,15.10,200,650,resident,La Ventilla,
+2.1,,,,,,1.00,15.90,200,550,resident,San José 520,
+2.2,,,,,,1.00,14.40,200,550,resident,San José 520,
+2.3,,,,,,1.00,16.00,200,550,resident,San José 520,
+2.4,,,,,,1.00,14.40,200,550,resident,San José 520,
+2.5,F,,,,,1.00,14.20,200,550,resident,San José 520,
+6,F,25.00,40.00,,,1.00,14.40,200,300,resident,Tlajinga 33,
+56,M,25.00,40.00,,,1.00,14.60,200,300,resident,Tlajinga 33,
+11,M,25.00,40.00,,,1.00,15.00,300,400,resident,Tlajinga 33,
+28a ,,3.00,4.00,,,1.00,14.60,300,400,resident,Tlajinga 33,
+42a,M,25.00,40.00,,,1.00,14.30,300,400,resident,Tlajinga 33,
+39,,0.50,0.50,,,1.00,14.80,400,500,resident,Tlajinga 33,
+46a ,F,25.00,40.00,,,1.00,14.90,400,500,resident,Tlajinga 33,
+61,M,25.00,40.00,,,1.00,15.20,500,550,resident,Tlajinga 33,
+21a ,,2.00,2.00,,,1.00,14.60,500,550,resident,Tlajinga 33,
+17b ,F,25.00,40.00,,,1.00,14.70,500,550,resident,Tlajinga 33,
+5,,-0.42,0.08,,,1.00,15.10,550,650,resident,Tlajinga 33,
+Tomb 1 ,,25.00,40.00,,,1.00,12.20,-500,200,resident,Monte Alban,
+Tomb 111 ,,25.00,40.00,,,1.00,13.40,200,300,resident,Monte Alban,
+Tomb 113 ,,25.00,40.00,,,1.00,13.10,200,300,resident,Monte Alban,
+Bur 4 ,,25.00,40.00,,,1.00,12.50,200,300,resident,Monte Alban,
+Tomb 77 ,M,25.00,40.00,,,1.00,12.70,200,300,resident,Monte Alban,
+Bur 17 ,,25.00,40.00,,,1.00,14.00,300,500,resident,Monte Alban,
+Bur VI-7 ,,25.00,40.00,,,1.00,12.40,300,500,resident,Monte Alban,
+Tomb 21 ,M,25.00,40.00,,,1.00,12.50,300,500,resident,Monte Alban,
+Bur IV-36 ,M,25.00,40.00,,,1.00,12.90,500,750,resident,Monte Alban,
+Tomb 153 ,F,25.00,40.00,,,1.00,12.10,500,750,resident,Monte Alban,
+Tomb 120 ,F,25.00,40.00,,,1.00,13.20,750,1000,resident,Monte Alban,
+Tomb 121 ,,25.00,40.00,,,1.00,13.70,750,1000,resident,Monte Alban,
+Tomb 58 ,M,25.00,40.00,,,1.00,13.90,750,1000,resident,Monte Alban,
+Tomb 63 ,M,25.00,40.00,,,1.00,13.90,1000,1520,resident,Monte Alban,
+Bur IV-32 ,F,25.00,40.00,,,1.00,12.50,1000,1520,resident,Monte Alban,
+Bur V-20 ,M,25.00,40.00,,,1.00,13.20,1000,1520,resident,Monte Alban,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+"From: White, C. D., Price, T. D., & Longstaffe, F. J. (2007). Residential histories of the human sacrifices at the Moon Pyramid, Teotihuacan: evidence from oxygen and strontium isotopes. Ancient Mesoamerica, 18(1), 159-172.",,,,,,,,,,,,
+"From: Spence, M. W., White, C. D., Longstaffe, F. J., & Law, K. R. (2004). Victims of the victims: Human trophies worn by sacrificed soldiers from the Feathered Serpent Pyramid, Teotihuacan. Ancient Mesoamerica, 15(1), 1-15.",,,,,,,,,,,,
+"From: White, C. D., Spence, M. W., Stuart-Williams, H. L. Q., & Schwarcz, H. P. (1998). Oxygen isotopes and the identification of geographical origins: the Valley of Oaxaca versus the Valley of Mexico. Journal of Archaeological Science, 25(7), 643-655.",,,,,,,,,,,,
+"from: White, C. D., Spence, M. W., Longstaffe, F. J., Stuart-Williams, H., & Law, K. R. (2002). Geographic identities of the sacrificial victims from the Feathered Serpent Pyramid, Teotihuacan: Implications for the nature of state power. Latin American Antiquity, 13(2), 217-236.",,,,,,,,,,,,
+"From: Nado, K. L., Zolotova, N., & Knudson, K. J. (2017). Paleodietary analysis of the sacrificial victims from the Feathered Serpent Pyramid, Teotihuacan. Archaeological and Anthropological Sciences, 9(1), 117-132.",,,,,,,,,,,,
+0 = No; 1 = Yes,,,,,,,,,,,,
+"Born at Teo and Local Before Death: Estimates are based on Nado 2017, not White 2002 interpretation",,,,,,,,,,,,
